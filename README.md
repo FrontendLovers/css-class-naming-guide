@@ -37,19 +37,19 @@
 
 ## 📝 Текстові елементи
 
-| Слово                                     | Приклад класу     | Опис              |
-| ----------------------------------------- | ----------------- | ----------------- |
-| `title`, `heading`, `headline`, `caption` | `.main-title`     | Заголовок         |
-| `subtitle`                                | `.card-subtitle`  | Підзаголовок      |
-| `slogan`                                  | `.brand-slogan`   | Слоган            |
-| `lead`, `tagline`                         | `.lead-text`      | Лід-абзац         |
-| `text`                                    | `.content-text`   | Текстовий контент |
-| `desc`                                    | `.item-desc`      | Опис              |
-| `excerpt`                                 | `.post-excerpt`   | Відривок тексту   |
-| `quote`, `blockquote`                     | `.quote-block`    | Цитата            |
-| `snippet`                                 | `.code-snippet`   | Приклад коду      |
-| `link`                                    | `.footer-link`    | Посилання         |
-| `copyright`, `copy`                       | `.site-copyright` | Копірайт          |
+| Слово                                                | Приклад класу     | Опис              |
+| ---------------------------------------------------- | ----------------- | ----------------- |
+| `title`, `heading`, `headline`, `caption`, `subject` | `.main-title`     | Заголовок         |
+| `subtitle`                                           | `.card-subtitle`  | Підзаголовок      |
+| `slogan`                                             | `.brand-slogan`   | Слоган            |
+| `lead`, `tagline`                                    | `.lead-text`      | Лід-абзац         |
+| `text`                                               | `.content-text`   | Текстовий контент |
+| `desc`                                               | `.item-desc`      | Опис              |
+| `excerpt`                                            | `.post-excerpt`   | Відривок тексту   |
+| `quote`, `blockquote`                                | `.quote-block`    | Цитата            |
+| `snippet`                                            | `.code-snippet`   | Приклад коду      |
+| `link`                                               | `.footer-link`    | Посилання         |
+| `copyright`, `copy`                                  | `.site-copyright` | Копірайт          |
 
 ---
 
